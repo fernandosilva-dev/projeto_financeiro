@@ -1,9 +1,9 @@
 <?php
 
 //Informa parâmetros de acesso ao banco de dados
-$vServidor='localhost';
-$vUsuario='root';
-$vSenha='root';
+$vServidor='';
+$vUsuario='';
+$vSenha='';
 $vBaseDados='financeiro';
 
 //Informa parâmetros de login
